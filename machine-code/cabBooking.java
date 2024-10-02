@@ -394,7 +394,7 @@ class CabBookingApplication {
 }
 
 // Demo class for testing the refactored cab booking application
-public class CabBookingDemo {
+public class CabBooking {
     public static void main(String[] args) {
         CabBookingApplication cabApp = new CabBookingApplication();
 
